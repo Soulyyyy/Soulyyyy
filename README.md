@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Souly2911
+- 👋 Hi, I’m Souly
 - 👀 I’m interested in Web Developpement(Full-Stack)
 - 🌱 I’m currently learning Java, Python and Express
 - 💞️ I’m looking to collaborate on Nothing for the moment
